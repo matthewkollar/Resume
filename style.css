@@ -1,0 +1,49 @@
+/*html, body {height:100%;}
+html {display:table; width:100%;}
+body {display:table-cell; text-align:center; vertical-align:middle;}*/
+
+html {
+    padding: 20px;
+}
+
+body {
+    font-family: Helvetica, Arial, "sans-serif";
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mainContainer {
+  margin: auto;
+  background: white;
+  padding: 10px;
+  height: 1000px;
+}
+.resumeTitle {
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.experienceTitle {
+	border: solid 2px gray;
+	text-align: center;
+	background-color: darkgray;
+}
+
+.addressContainer {
+	height: 500px;
+    float: right;
+    width: 25%;
+    vertical-align: bottom;
+    border: solid 1px #000;
+    padding: 5px;
+    text-align: center;
+}
+
+.content {
+	float: right;
+    width: 70%;
+    vertical-align: bottom;
+    padding: 5px;
+}
+
