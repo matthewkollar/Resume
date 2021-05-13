@@ -47,3 +47,14 @@ body {
     padding: 5px;
 }
 
+.gitButton {
+  background-color: red;   
+}
+
+.educationContainer {
+    float: left;
+    width: 70%;
+    vertical-align: bottom;
+    padding: 5px;
+    right: -60px;
+}
