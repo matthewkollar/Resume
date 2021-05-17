@@ -44,9 +44,6 @@ body {
     display: contents;
 }
 
-.gitButton {
-  background-color: red;   
-}
 
 .educationContainer {
     float: left;
@@ -72,8 +69,15 @@ body {
     margin: 0;
     text-align: center;
     margin-top: -26px;
+    margin-bottom: 10px;
 }
 
 .contactInformation {
     border-style: solid;
+}
+
+.mainButton {
+    background-color: green;
+    color: white;
+    margin-bottom: 10px;
 }
