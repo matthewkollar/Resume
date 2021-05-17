@@ -14,7 +14,7 @@ body {
 }
 
 .container {
- background-color: lightblue;
+
 }
 .resumeTitle {
 	margin-bottom: 30px;
@@ -80,4 +80,10 @@ body {
     background-color: green;
     color: white;
     margin-bottom: 10px;
+}
+
+.subTitle {
+    margin-top: -10px;
+    font-style: italic;
+    
 }
