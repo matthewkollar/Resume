@@ -14,17 +14,21 @@ body {
 }
 
 .container {
-
+    background-color: floralwhite;
+    border-style: ridge;
+    border-color: ghostwhite;
 }
+
 .resumeTitle {
 	margin-bottom: 30px;
 	text-align: center;
 }
 
 .experienceTitle {
-	border: solid 2px gray;
+	border-style: inset;
 	text-align: center;
-	background-color: darkgray;
+	background-color: ghostwhite;
+    margin: 0px;
 }
 
 .addressContainer {
@@ -87,4 +91,18 @@ body {
     margin-top: -10px;
     font-style: italic;
     
+}
+
+.col-sm-2 {
+    margin-top: 11px;
+    font-style: italic;
+}
+
+.listItems {
+    padding-top: 15px;
+}
+
+.mainImage {
+    background-size: cover;
+    background-attachment: fixed;
 }
