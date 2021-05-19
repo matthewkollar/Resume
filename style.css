@@ -11,6 +11,9 @@ body {
     padding: 10px;
     margin-left: 20px;
     margin-right: 20px;
+    background-image: url(coding.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
@@ -28,7 +31,6 @@ body {
 	border-style: inset;
 	text-align: center;
 	background-color: ghostwhite;
-    margin: 0px;
 }
 
 .addressContainer {
@@ -79,10 +81,11 @@ body {
 .contactInformation {
     border-style: solid;
     background-color: cornsilk;
+    margin-top: 15px;
 }
 
 .mainButton {
-    background-color: green;
+    background-color: dimgray;
     color: white;
     margin-bottom: 10px;
 }
