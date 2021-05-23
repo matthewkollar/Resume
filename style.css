@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    background-color: floralwhite;
+    background-color: white;
     border-style: ridge;
     border-color: ghostwhite;
 }
@@ -30,7 +30,7 @@ body {
 .experienceTitle {
 	border-style: inset;
 	text-align: center;
-	background-color: ghostwhite;
+	background-color: lightgray;
 }
 
 .addressContainer {
@@ -62,8 +62,8 @@ body {
 .image
 {
     border-radius: 50%;
-    height: 100px;
-    width: 100px;
+    height: 88px;
+    width: 138px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -80,7 +80,7 @@ body {
 
 .contactInformation {
     border-style: solid;
-    background-color: cornsilk;
+    background-color: floralwhite;
     margin-top: 15px;
 }
 
